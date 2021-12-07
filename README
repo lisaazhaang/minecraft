@@ -1,0 +1,37 @@
+- Last updated 12/06 - Lisa Zhang
+
+
+HELLO!
+and welcome to the plugins Lisa Zhang made for her Minecraft server!
+
+There are two plugins included: SpecialStick (or Sword) and FlyingPigs
+
+SpecialStick (Sword):
+- Hold a wooden sword and left click
+- Trigger a random event from 20 choices!
+- Events include:
+      - It causes a lightning strike
+      - It kills the player
+      - It causes the player to catch on fire
+      - It creates an explosion
+      - It spawns a pig
+      - It causes a Fire Resistance potion effect on the player
+      - It adds an egg to the inventory
+      - It sends a message to the chat
+      - It teleports a player 50 blocks
+      - It gives the player exp levels
+      - Sets player's health to 10 (5 hearts)
+      - Spawns a diamond block above them
+      - Spawns a zombie at player's location
+      - Poison effect to Player
+      - Gives player super speed
+      - Sets player's health to only half a heart
+      - Spawns a wolf
+      - Gives the player a wither skull in their inventory
+      - Spawns a cake below the player
+      - Spawns the player very high in the air
+      
+FlyingPig
+- Hold a Pig spawn egg in your hand and left click!
+- Spawn a flying pig (it's actually just a pig riding a flying bat)
+- Also works with cows, sheep, rabbits, villagers
