@@ -1,0 +1,10 @@
+name: FlyingPigs
+version: '1.0-SNAPSHOT'
+main: flyingpigs.flyingpigs.FlyingPigs
+api-version: 1.17
+authors: [ apollosno ]
+description: flying pig
+commands:
+  flyingpig:
+    usage: /<command>
+    description: A flying pig! WOW!
