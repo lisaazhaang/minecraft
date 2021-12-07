@@ -1,0 +1,10 @@
+name: SpecialStick
+version: '${project.version}'
+main: specialstick.specialstick.SpecialStick
+api-version: 1.17
+authors: [ apollosno ]
+description: Special Sword
+commands:
+  specsword:
+    usage: /<command>
+    description: A Special Sword! WOW!
